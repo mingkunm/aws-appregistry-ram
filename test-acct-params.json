@@ -1,0 +1,18 @@
+[
+    {
+        "ParameterKey": "APIGatewayStageName",
+        "ParameterValue": "test"
+    },
+    {
+        "ParameterKey": "TestAccountID",
+        "ParameterValue": "<insert your test account id>"
+    },
+    {
+        "ParameterKey": "ProdAccountID",
+        "ParameterValue": "<insert your prod account id>"
+    },
+    {
+        "ParameterKey": "IsTestAccountFlag",
+        "ParameterValue": "Yes"
+    }
+]

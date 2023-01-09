@@ -1,0 +1,10 @@
+/to-be-deleted
+/scripts
+/venv
+.taskcat.yml
+/taskcat_outputs
+notes.txt
+aggregated_results.txt
+test.py
+cfn_nag_output.txt
+bandit_output.txt
