@@ -12,12 +12,12 @@ The following are prerequisite steps for following along with this solution:
 
 Clone the GitHub repository to your local workstation.
 ```
-git clone git@ssh.gitlab.aws.dev:ajimmcdo/appreg-blog-simple.git
+git clone git@github.com:aws-samples/aws-appregistry-ram.git
 ```
 
 Change your working directory folder to the repository you cloned.
 ```
-cd appreg-blog-simple
+cd aws-appregistry-ram
 ```
 
 Using your favorite editor, edit the file named test-acct-params.json and update the ParameterValue for TestAccountID and ProdAccountID.  The other parameters should remain as is.
