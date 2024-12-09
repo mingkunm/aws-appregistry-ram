@@ -59,7 +59,7 @@ The output should look like the following:
 }
 ```
 
-Using your favorite editor, edit the file named test-acct-params.json and update the ParameterValue for TestAccountID and ProdAccountID.  The other parameters should remain as is.
+Using your favorite editor, edit the file named prod-acct-params.json and update the ParameterValue for TestAccountID and ProdAccountID.  The other parameters should remain as is.
 
 ```
 [
